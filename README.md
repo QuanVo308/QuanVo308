@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi guys 👋 
+### I'm Quan, Im's from Vietnam
 
-<!--
-**QuanVo308/QuanVo308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/QuanVo308/QuanVo308)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/quan-vo-921817225/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:minhquan.vo01@gmail.com)
 
-Here are some ideas to get you started:
+Welcome to my Github page! I'm just a normal guy who interested in technologie and willing to have a creative job! I prefer working with a team to working alone. I hope one da
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="img" src="https://github.com/thainm-uet/thainm-uet/blob/main/its-devops.png" width="50%" height="300px" />
+
+
+#### 🌱 Things I am currently working on: 
+- Finish my Computer Science at University of Engineering and Technology, Vietnam National University
+- Discovering Cloud technologies
+- Honing my skill in Networking.
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Studying with high concentration
+- Push GPA higher than 3.5
+- Getting better and clearer knowledge of Networking career
+
+#### :computer: Programming languages and tools: 
+
+<div>
+	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=QuanVo308&show_icons=true&theme=monokai" />
+	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanVo308&layout=compact&theme=monokai" />
+</div>
