@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I'm just a normal guy who interested in technologie and willing to have a creative job! I prefer working with a team to working alone. I hope one da
 
-<img align="right" alt="img" src="https://github.com/thainm-uet/thainm-uet/blob/main/its-devops.png" width="50%" height="300px" />
+<img align="right" alt="img" src="https://github.com/QuanVo308/QuanVo308/blob/main/Untitled.png" width="50%" height="300px" />
 
 
 #### 🌱 Things I am currently working on: 
