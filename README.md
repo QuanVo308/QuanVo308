@@ -21,7 +21,6 @@ Welcome to my Github page! I'm just a normal guy who interested in technologie a
 - Push GPA higher than 3.5
 - Getting better and clearer knowledge of Networking career
 
-#### :computer: Programming languages and tools: 
 
 <div>
 	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=QuanVo308&show_icons=true&theme=monokai&count_private=true&include_all_commits=true" />
