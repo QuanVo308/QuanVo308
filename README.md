@@ -25,5 +25,4 @@ Welcome to my Github page! I'm just a normal guy who interested in technologie a
 
 <div>
 	<img width="50%" align='left'  src="https://github-readme-stats.vercel.app/api?username=QuanVo308&show_icons=true&theme=monokai&count_private=true&include_all_commits=true" />
-	<img width="40%" height='200px' align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanVo308&layout=compact&theme=monokai&count_private=true&include_all_commits=true&hide=c%2B%2B" />
 </div>
