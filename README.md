@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/quan-vo-921817225/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:minhquan.vo01@gmail.com)
 
-Welcome to my Github page! I'm just a normal guy who interested in technologie and willing to have a creative job! I prefer working with a team to working alone. I hope one da
+Welcome to my Github page! I'm just a normal guy who interested in technologie and willing to have a creative job! I prefer working with a team to working alone.
 
 <img align="right" alt="img" src="https://github.com/QuanVo308/QuanVo308/blob/main/Untitled.png" width="50%" height="300px" />
 
