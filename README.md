@@ -1,5 +1,5 @@
 ### Hi guys 👋 
-### I'm Quan, Im's from Vietnam
+### I'm Quan, I'm from Vietnam
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/QuanVo308/QuanVo308)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/quan-vo-921817225/)
